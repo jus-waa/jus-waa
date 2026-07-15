@@ -52,45 +52,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**[🔐 Secure Personal Vault](https://github.com/jus-waa/Secure-Personal-Vault)**
-A MERN-stack app for storing encrypted personal notes, with per-note locking (AES-256-CBC) on top of standard account auth.
-`React` `Node.js` `Express` `MongoDB`
-
-</td>
-<td width="50%">
-
-**[⚛️ Alqurithms (Visual Quantum)](https://github.com/jus-waa/alqurithms)**
-An interactive quantum computing playground — build circuits visually, simulate real quantum gates, and walk through algorithms like Deutsch–Jozsa with 3D state visualization.
-`React` `TypeScript` `Three.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[🕒 Intern Attendance Tracker](https://github.com/jus-waa/Intern-Attendance-Tracker)**
-A QR-code-based attendance system with automatic session timeout, timesheet tracking, and a fully Dockerized backend.
-`FastAPI` `React` `PostgreSQL` `Docker`
-
-</td>
-<td width="50%">
-
-**[🏘️ iBarangay (BMIS)](https://github.com/jus-waa/Barangay-Management-Information-System)**
-A barangay management platform automating resident records, document generation (PDF), and role-based account access.
-`PHP` `MySQL` `Tailwind CSS`
-
-</td>
-</tr>
-</table>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
